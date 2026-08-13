@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ".NET"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Closed Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "🔬 A Labs project from your friends at Postlight.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:41:15.632Z",
+    "original_repository": "postlight/awesome-cms",
+    "original_repository_sha": "dcf181452d1eebdb6af1cbf3fe7b88268d934131",
+    "enhanced_repository": "enhansome/enhansome-cms",
+    "enhanced_repository_description": null,
+    "title": "Awesome CMS with stars"
+  }
+}
