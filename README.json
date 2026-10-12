@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-11T09:20:26.280Z",
+    "last_updated": "2026-10-12T09:49:22.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.",
@@ -13,7 +13,7 @@
       "open_issues": 25,
       "owner": "postlight",
       "repo": "awesome-cms",
-      "stars": 3129,
+      "stars": 3130,
       "topics": [
         "awesome-list",
         "cms",
